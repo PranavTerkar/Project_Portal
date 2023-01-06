@@ -1,0 +1,15 @@
+
+.home__titles{
+    margin-top: 30vh;
+    margin-left: 120px;
+}
+
+.home__title{
+    /* margin-bottom: -40px; */
+   font-size: 30px;
+}
+
+.home__subTitle{
+    margin-bottom: 40px;
+    font-size: 25px;
+}
